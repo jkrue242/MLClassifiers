@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"ClassifierTests"},{"p":"<Unnamed>","l":"DataReader"},{"p":"<Unnamed>","l":"Similarity"},{"p":"<Unnamed>","l":"SimilarityTests"},{"p":"<Unnamed>","l":"SupervisedClassifier"},{"p":"<Unnamed>","l":"UnsupervisedClassifier"}]
